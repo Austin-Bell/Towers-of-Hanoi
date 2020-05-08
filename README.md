@@ -1,6 +1,9 @@
 # Towers-of-Hanoi
 Towers of Hanoi is an ancient mathematical puzzle that starts off with three stacks and many disks.
 
+![Tower of Hanoi example]
+(https://raw.githubusercontent.com/Austin-Bell/Towers-of-Hanoi/master/img/tower_of_hanoi_img.png)
+
 The game follows three rules:
 
 1. Only one disk can be moved at a time.
